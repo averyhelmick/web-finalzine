@@ -1,0 +1,43 @@
+p{font-family:Gill Sans;color:white}
+
+figcaption{font-family:Gill Sans;color:white;font-size: smaller}
+
+h1{font-family: "ringold-sans", sans-serif;
+font-weight: 400;
+font-style: normal;} 
+
+a{font-family:  "cc-dash-to-school", sans-serif;
+font-weight: 900;
+font-style:normal;color:aquamarine;
+text-decoration:none}
+
+h2{font-family: "cc-dash-to-school", sans-serif;
+font-weight: 900;
+font-style:normal;color:yellow}
+
+blockquote{font-family:Gill Sans;color:white}
+
+.navbar a{background-color:#3b9eff;text-align: center;padding:9px;z-index:1000; margin: 0; display:flex;
+justify-content: space-evenly; position: sticky;}
+
+
+footer{background-color:#3b9eff;text-align: right;padding:21px}
+
+html{scroll-behavior: smooth;}
+
+*{margin: 10px}
+
+.back-to-top{
+ position: fixed;
+ bottom: 20px;
+ right:20px;
+ background-color:#3b9eff;
+ padding: 10px 15px;
+ text-decoration:none;
+ border-radius: 5px
+}
+.text-element {
+padding:16px 522px 10px 814px ;
+text-align:left
+position absolute;
+}
